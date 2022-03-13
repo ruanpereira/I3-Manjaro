@@ -1,0 +1,20 @@
+To find the configuration file in Manjaro I3, go to the root directory of your system, and digit:
+
+# ls -la
+
+This command will make a list of the directors and files of the current path
+You will proceed to search for a ocult directory called .i3
+
+*image with example will be added soon*
+
+Then,you will enter that directory and do the command again:
+
+# ls
+
+You will find a single file called config:
+
+*image with example will be added soon*
+
+Thats the config file of the environment.
+
+*image of the content of the file*
