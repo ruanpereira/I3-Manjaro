@@ -9,3 +9,5 @@ Guess help :P
 <p align="center"><a href="https://github.com/ruanpereira/I3-Manjaro/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=ruanpereira/I3-Manjaro" />
 </a></p>
+
+Did this repo because i wanted
