@@ -11,3 +11,5 @@ Guess help :P
 </a></p>
 
 Did this repo because i wanted to crave my learning about this system and the tiling window mananger (i3). Also to safe configurations, do some tests and etc.
+
+![Screenshot_2](https://user-images.githubusercontent.com/77154574/158093195-cb980517-7500-428b-9e60-407acf5ac000.png)
