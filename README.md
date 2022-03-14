@@ -10,4 +10,4 @@ Guess help :P
   <img src="https://contributors-img.web.app/image?repo=ruanpereira/I3-Manjaro" />
 </a></p>
 
-Did this repo because i wanted
+Did this repo because i wanted to crave my learning about this system and the tiling window mananger (i3). Also to safe configurations, do some tests and etc.
