@@ -7,7 +7,8 @@ In this repositore i will show how i configurated the system, and my personal op
 Guess help :P
 
 <p align="center"><a href="https://github.com/ruanpereira/I3-Manjaro/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=ruanpereira/I3-Manjaro" />
+  <img src="https://contributors-img.web.app/image?repo=ruanpereira/I3-Manjaro">
 </a></p>
 
-![Screenshot_2](https://user-images.githubusercontent.com/77154574/158093195-cb980517-7500-428b-9e60-407acf5ac000.png)
+<img align="center" alt="ibp-Gth" height="60" width="60" src="https://user-images.githubusercontent.com/77154574/158191190-ca453664-3c3a-43bc-ad69-1a295426a546.png">
+
