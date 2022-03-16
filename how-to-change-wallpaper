@@ -9,3 +9,7 @@ that you want and close 'n open.
 Usually, the path is 
 
 - /usr/share/backgrounds
+
+so, if you want to put a wallpaper here, you can use this command, if you are in the directory that has the wallpaper:
+
+sudo mv <name-of-the-file.jgp> /usr/share/backgrounds
