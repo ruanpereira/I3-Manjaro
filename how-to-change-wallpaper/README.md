@@ -1,15 +1,17 @@
-simply go to the execution command ($mod + D) and search for:
+<h1> Wallpaper change </h1>
 
-- nitrogen
+<p> Simply go to the execution command <code>$mod + D</code> and search for:
 
-and enter. You will find a interface with various wallpapers. 
-To add some wallpaper, go to the preference button in the right corner and see the path to the directory with the wallpapers. Go to that path and add the file 
-that you want and close 'n open. 
+<ul style="list-style-type:circle">
+  <li>Nitrogen
+</u>
 
-Usually, the path is 
+You will find a interface with various native wallpapers. To add some wallpaper, go to the preference button in
+the right corner and see the path to the directory with te wallpapers, then, go to that path and add the file that you want and close 'n open.<br>
 
-- /usr/share/backgrounds
+Usualy, the path is <code> /usr/share/backgrounds</code>
 
-so, if you want to put a wallpaper here, you can use this command, if you are in the directory that has the wallpaper:
+So, if you want to put a wallpaper here, you can use this command, if you are in the directory that has the wallpaper: <br>
 
-sudo mv <name-of-the-file.jgp> /usr/share/backgrounds
+<code> sudo mv <name-of-the-file.jpg> /usr/share/backgrounds </code>
+</p>
