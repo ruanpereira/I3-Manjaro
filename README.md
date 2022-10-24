@@ -26,3 +26,4 @@ Guess help :P
 
 - To edit the bar, use: https://i3wm.org/docs/i3status.html
 - To edit the colors in i3: https://thomashunter.name/i3-configurator/ 
+- General configuration: https://www.arcolinuxd.com/4-all-you-need-to-know-about-tweaking-and-theming-i3/
