@@ -10,5 +10,15 @@ Guess help :P
   <img src="https://contributors-img.web.app/image?repo=ruanpereira/I3-Manjaro">
 </a></p>
 
+
+## Troubleshooting: 
+
+- Audio: just put $ install_pulse on a terminal.
+- Poor Navegator: Change to firefox in mime.apps and .profile and you should be good. 
+- Keybinds: super + shift + h for quick use or https://i3wm.org/docs/userguide.html for detailed use.
+- Monitors: ?
+- Installing apps: $ sudo pacman -Ss 'app' and $ sudo pacman -S 'app' resolve 99% of the problems. 
+- Periferics: Plug and play to this day of edition. 
+
 <img align="center" alt="ibp-Gth" height="60" width="60" src="https://user-images.githubusercontent.com/77154574/158191190-ca453664-3c3a-43bc-ad69-1a295426a546.png">
 
