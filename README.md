@@ -22,3 +22,7 @@ Guess help :P
 
 <img align="center" alt="ibp-Gth" height="60" width="60" src="https://user-images.githubusercontent.com/77154574/158191190-ca453664-3c3a-43bc-ad69-1a295426a546.png">
 
+## Editing bars and colors: 
+
+- To edit the bar, use: https://i3wm.org/docs/i3status.html
+- To edit the colors in i3: https://thomashunter.name/i3-configurator/ 
